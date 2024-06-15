@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-hangman-figure',
+  selector: 'hangman-figure',
   standalone: true,
   imports: [],
   templateUrl: './hangman-figure.component.html',

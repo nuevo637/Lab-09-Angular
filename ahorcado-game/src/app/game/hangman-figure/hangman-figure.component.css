@@ -1,7 +1,7 @@
 .hangman {
     position: relative;
-    width: 350px;
-    height: 280px;
+    width: 300px;
+    height: 250px;
 }
 
 .gallows {
@@ -23,7 +23,7 @@
     position: absolute;
     left: 8%;
     top: 0;
-    width: 55%;
+    width: 50%;
     height: 10px;
     background-color: #ffffff;
 }
@@ -34,6 +34,15 @@
     bottom: 0;
     width: 100%;
     height: 10px;
+    background-color: #ffffff;
+}
+
+.gallows .rope {
+    position: absolute;
+    right: 127px;
+    top: 0px;
+    width: 5px;
+    height: 30px;
     background-color: #ffffff;
 }
 
@@ -69,7 +78,7 @@
 
 .body-parts .right-arm {
     position: absolute;
-    left: calc(50% - 35px);
+    right: 135px;
     top: 65px;
     width: 40px;
     height: 10px;
@@ -80,22 +89,22 @@
 
 .body-parts .left-leg {
     position: absolute;
-    left: calc(50% - 5px);
-    top: 120px;
-    width: 40px;
-    height: 10px;
-    background-color: #ffffff;
-    transform: rotate(-45deg);
-    transform-origin: left center;
-}
-
-.body-parts .right-leg {
-    position: absolute;
-    left: calc(50% - 35px);
+    right:86px;
     top: 120px;
     width: 40px;
     height: 10px;
     background-color: #ffffff;
     transform: rotate(45deg);
+    transform-origin: left center;
+}
+
+.body-parts .right-leg {
+    position: absolute;
+    right:134px;
+    top: 120px;
+    width: 40px;
+    height: 10px;
+    background-color: #ffffff;
+    transform: rotate(-45deg);
     transform-origin: right center;
 }

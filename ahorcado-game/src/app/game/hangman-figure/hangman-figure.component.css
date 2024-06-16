@@ -1,7 +1,7 @@
 .hangman {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 280px;
 }
 
 .gallows {
@@ -12,7 +12,7 @@
 
 .gallows .vertical-post {
     position: absolute;
-    left: 50%;
+    left: 8%;
     top: 0;
     width: 10px;
     height: 100%;
@@ -21,9 +21,9 @@
 
 .gallows .beam {
     position: absolute;
-    left: 50%;
+    left: 8%;
     top: 0;
-    width: 50%;
+    width: 55%;
     height: 10px;
     background-color: #ffffff;
 }
@@ -39,8 +39,8 @@
 
 .body-parts .head {
     position: absolute;
-    left: calc(50% - 20px);
-    top: 20px;
+    right: 110px;
+    top: 25px;
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -49,8 +49,8 @@
 
 .body-parts .body {
     position: absolute;
-    left: calc(50% - 5px);
-    top: 60px;
+    right: 125px;
+    top: 65px;
     width: 10px;
     height: 60px;
     background-color: #ffffff;
@@ -58,8 +58,8 @@
 
 .body-parts .left-arm {
     position: absolute;
-    left: calc(50% - 5px);
-    top: 60px;
+    right: 85px;
+    top: 65px;
     width: 40px;
     height: 10px;
     background-color: #ffffff;
@@ -70,7 +70,7 @@
 .body-parts .right-arm {
     position: absolute;
     left: calc(50% - 35px);
-    top: 60px;
+    top: 65px;
     width: 40px;
     height: 10px;
     background-color: #ffffff;

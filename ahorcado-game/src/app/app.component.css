@@ -1,0 +1,8 @@
+.videojuego {
+    width: 93vw;
+    height: 93vh;
+    background-color: #4b4b4b65;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}

@@ -1,18 +1,11 @@
 .videojuego {
     width: 93vw;
     height: 93vh;
-    background-color: #4b4b4b65;
+    background-color: #2f2e30;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 50px;
     flex-direction: column;
 
-}
-h1 {
-    text-align: center;
-    width: auto;
-    margin: 20px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(18, 17, 17);
 }

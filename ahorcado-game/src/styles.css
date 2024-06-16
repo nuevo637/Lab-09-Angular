@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: #3a3a3a;
+}

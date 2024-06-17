@@ -1,1 +1,14 @@
-<p>game-board works!</p>
+<div>
+    <input [(ngModel)]="letra" maxlength="1" />
+    <button (click)="adivinar(letra)">Adivinar</button>
+    <button (click)="nuevaPalabra()">Nueva Palabra</button>
+  </div>
+  <div *ngIf="gameService.juegoTerminado()">
+    <p *ngIf="gameService.palabraOculta.join('') === gameService.palabraActual">¡Ganaste!</p>
+    <p *ngIf="gameService.intentos <= 0">Perdiste. La palabra era {{ gameService.palabraActual }}</p>
+  </div>
+  <div>
+    <p>{{ gameService.palabraOculta.join(' ') }}</p>
+    <p>Intentos restantes: {{ gameService.intentos }}</p>
+  </div>
+  

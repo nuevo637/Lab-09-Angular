@@ -1,7 +1,7 @@
 <div>
     <input [(ngModel)]="letra" maxlength="1" />
     <button (click)="adivinar(letra)">Adivinar</button>
-    <button (click)="nuevaPalabra()">Nueva Palabra</button>
+    <button (click)="nuevaPalabra()">Nuevo Juego</button>
   </div>
   <div *ngIf="gameService.juegoTerminado()">
     <p *ngIf="gameService.palabraOculta.join('') === gameService.palabraActual">¡Ganaste!</p>

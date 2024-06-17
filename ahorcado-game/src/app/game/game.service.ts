@@ -4,7 +4,39 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class GameService {
-  palabras: string[] = ['angular', 'typescript', 'component', 'service'];
+  palabras: string[] = [
+    'angular', 
+    'typescript', 
+    'componente', 
+    'servicio',
+    'reactivo',
+    'vue',
+    'framework',
+    'biblioteca',
+    'módulo',
+    'dependencia',
+    'paquete',
+    'node.js',
+    'express',
+    'mongodb',
+    'sql',
+    'api',
+    'rest',
+    'graphql',
+    'json',
+    'ajax',
+    'http',
+    'websocket',
+    'frontend',
+    'backend',
+    'base de datos',
+    'esquema',
+    'consulta',
+    'orm',
+    'pruebas',
+    'integración continua'
+];
+
   palabraActual: string = '';
   palabraOculta: string[] = [];
   intentos: number = 6;

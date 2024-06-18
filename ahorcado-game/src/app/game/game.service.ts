@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { Subject } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -35,11 +36,14 @@ export class GameService {
     'orm',
     'pruebas',
     'integración continua'
-];
+  ];
 
   palabraActual: string = '';
   palabraOculta: string[] = [];
   intentos: number = 6;
+
+  // Subject para emitir cambios en los intentos
+  intentosCambio = new Subject<number>();
 
   constructor() {
     this.nuevaPalabra();
@@ -49,6 +53,7 @@ export class GameService {
     this.palabraActual = this.palabras[Math.floor(Math.random() * this.palabras.length)];
     this.palabraOculta = Array(this.palabraActual.length).fill('_');
     this.intentos = 6;
+    this.intentosCambio.next(this.intentos);
   }
 
   adivinar(letra: string) {
@@ -61,6 +66,7 @@ export class GameService {
     }
     if (!acierto) {
       this.intentos--;
+      this.intentosCambio.next(this.intentos);
     }
   }
 

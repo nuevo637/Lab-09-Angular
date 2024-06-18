@@ -53,7 +53,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #ffffff;
+    background-color: #ffffff00;
 }
 
 .body-parts .body {
@@ -62,7 +62,7 @@
     top: 65px;
     width: 10px;
     height: 60px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
 }
 
 .body-parts .left-arm {
@@ -71,7 +71,7 @@
     top: 65px;
     width: 40px;
     height: 10px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
     transform: rotate(45deg);
     transform-origin: left center;
 }
@@ -82,7 +82,7 @@
     top: 65px;
     width: 40px;
     height: 10px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
     transform: rotate(-45deg);
     transform-origin: right center;
 }
@@ -93,7 +93,7 @@
     top: 120px;
     width: 40px;
     height: 10px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
     transform: rotate(45deg);
     transform-origin: left center;
 }
@@ -104,7 +104,15 @@
     top: 120px;
     width: 40px;
     height: 10px;
-    background-color: #ffffff;
+    background-color: #ffffff00;
     transform: rotate(-45deg);
     transform-origin: right center;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
 }

@@ -11,7 +11,7 @@ export class GameService {
     'componente', 
     'servicio',
     'reactivo',
-    'vue',
+    'eula',
     'framework',
     'biblioteca',
     'módulo',
@@ -27,15 +27,15 @@ export class GameService {
     'json',
     'ajax',
     'http',
-    'websocket',
+    'genshin',
     'frontend',
     'backend',
     'base de datos',
-    'esquema',
+    'honkai',
     'consulta',
-    'orm',
+    'wuthering',
     'pruebas',
-    'integración continua'
+    'waves'
   ];
 
   palabraActual: string = '';

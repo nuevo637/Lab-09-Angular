@@ -12,3 +12,11 @@ body {
     justify-content: center;
     background-color: #3a3a3a;
 }
+
+body {
+    font-family: 'Cafe24Decoschool', sans-serif;
+    background-image: url('/assets/images/fondo.jpg');
+    background-size: cover; /* Asegura que la imagen cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center center; /* Centra la imagen */
+}

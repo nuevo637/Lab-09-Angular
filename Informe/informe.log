@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.8)  19 JUN 2024 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.8)  19 JUN 2024 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -807,12 +807,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [2
 
 ]
-<img/HTMLT1.jpg, id=142, 602.25pt x 398.23781pt>
+<img/HTMLT1.jpg, id=146, 602.25pt x 398.23781pt>
 File: img/HTMLT1.jpg Graphic file (type jpg)
 <use img/HTMLT1.jpg>
 Package pdftex.def Info: img/HTMLT1.jpg  used on input line 194.
 (pdftex.def)             Requested size: 443.57848pt x 293.3302pt.
-<img/ScriptT1.jpg, id=143, 652.68843pt x 703.12688pt>
+<img/ScriptT1.jpg, id=147, 652.68843pt x 703.12688pt>
 File: img/ScriptT1.jpg Graphic file (type jpg)
 <use img/ScriptT1.jpg>
 Package pdftex.def Info: img/ScriptT1.jpg  used on input line 202.
@@ -837,12 +837,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [3
 
  <./img/HTMLT1.jpg>]
-<img/ResultT1.jpg, id=149, 490.83376pt x 508.14844pt>
+<img/ResultT1.jpg, id=154, 490.83376pt x 508.14844pt>
 File: img/ResultT1.jpg Graphic file (type jpg)
 <use img/ResultT1.jpg>
 Package pdftex.def Info: img/ResultT1.jpg  used on input line 210.
 (pdftex.def)             Requested size: 443.57848pt x 459.24452pt.
-<img/Result2T1.jpg, id=150, 175.40532pt x 131.74219pt>
+<img/Result2T1.jpg, id=155, 175.40532pt x 131.74219pt>
 File: img/Result2T1.jpg Graphic file (type jpg)
 <use img/Result2T1.jpg>
 Package pdftex.def Info: img/Result2T1.jpg  used on input line 217.
@@ -901,17 +901,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [6 <./img/Result2T1.jpg>]
-<img/Ejer1T2HTML.jpg, id=166, 524.71031pt x 295.1025pt>
+<img/Ejer1T2HTML.jpg, id=171, 524.71031pt x 295.1025pt>
 File: img/Ejer1T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer1T2HTML.jpg>
 Package pdftex.def Info: img/Ejer1T2HTML.jpg  used on input line 233.
 (pdftex.def)             Requested size: 443.57848pt x 249.48293pt.
-<img/Ejer1T2Script.jpg, id=167, 463.7325pt x 207.77625pt>
+<img/Ejer1T2Script.jpg, id=172, 463.7325pt x 207.77625pt>
 File: img/Ejer1T2Script.jpg Graphic file (type jpg)
 <use img/Ejer1T2Script.jpg>
 Package pdftex.def Info: img/Ejer1T2Script.jpg  used on input line 241.
 (pdftex.def)             Requested size: 443.57848pt x 198.74957pt.
-<img/Ejer1T2Página.jpg, id=168, 586.44093pt x 654.94687pt>
+<img/Ejer1T2Página.jpg, id=173, 586.44093pt x 654.94687pt>
 File: img/Ejer1T2Página.jpg Graphic file (type jpg)
 <use img/Ejer1T2Página.jpg>
 Package pdftex.def Info: img/Ejer1T2Página.jpg  used on input line 249.
@@ -936,7 +936,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 [7
 
  <./img/Ejer1T2HTML.jpg> <./img/Ejer1T2Script.jpg>]
-<img/Ejer1T2result.jpg, id=176, 522.45187pt x 621.82312pt>
+<img/Ejer1T2result.jpg, id=181, 522.45187pt x 621.82312pt>
 File: img/Ejer1T2result.jpg Graphic file (type jpg)
 <use img/Ejer1T2result.jpg>
 Package pdftex.def Info: img/Ejer1T2result.jpg  used on input line 257.
@@ -959,7 +959,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [8 <./img/Ejer1T2Página.jpg>]
-<img/Ejer2T2HTML.jpg, id=182, 519.44063pt x 262.73157pt>
+<img/Ejer2T2HTML.jpg, id=187, 519.44063pt x 262.73157pt>
 File: img/Ejer2T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer2T2HTML.jpg>
 Package pdftex.def Info: img/Ejer2T2HTML.jpg  used on input line 269.
@@ -982,7 +982,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [9 <./img/Ejer1T2result.jpg>]
-<img/Ejer2T2Script.jpg, id=188, 688.07062pt x 684.30656pt>
+<img/Ejer2T2Script.jpg, id=194, 688.07062pt x 684.30656pt>
 File: img/Ejer2T2Script.jpg Graphic file (type jpg)
 <use img/Ejer2T2Script.jpg>
 Package pdftex.def Info: img/Ejer2T2Script.jpg  used on input line 277.
@@ -1005,7 +1005,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [10 <./img/Ejer2T2HTML.jpg>]
-<img/Ejer2T2Pagina.jpg, id=194, 963.6pt x 408.77719pt>
+<img/Ejer2T2Pagina.jpg, id=200, 963.6pt x 408.77719pt>
 File: img/Ejer2T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer2T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer2T2Pagina.jpg  used on input line 285.
@@ -1028,12 +1028,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [11 <./img/Ejer2T2Script.jpg>]
-<img/Ejer2T2Result.jpg, id=200, 963.6pt x 521.69907pt>
+<img/Ejer2T2Result.jpg, id=206, 963.6pt x 521.69907pt>
 File: img/Ejer2T2Result.jpg Graphic file (type jpg)
 <use img/Ejer2T2Result.jpg>
 Package pdftex.def Info: img/Ejer2T2Result.jpg  used on input line 293.
 (pdftex.def)             Requested size: 443.57848pt x 240.15164pt.
-<img/Ejer3T2HTML.jpg, id=201, 548.80031pt x 312.41719pt>
+<img/Ejer3T2HTML.jpg, id=207, 548.80031pt x 312.41719pt>
 File: img/Ejer3T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer3T2HTML.jpg>
 Package pdftex.def Info: img/Ejer3T2HTML.jpg  used on input line 306.
@@ -1056,7 +1056,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [12 <./img/Ejer2T2Pagina.jpg> <./img/Ejer2T2Result.jpg>]
-<img/Ejer3T2Script.jpg, id=208, 479.54156pt x 702.37407pt>
+<img/Ejer3T2Script.jpg, id=215, 479.54156pt x 702.37407pt>
 File: img/Ejer3T2Script.jpg Graphic file (type jpg)
 <use img/Ejer3T2Script.jpg>
 Package pdftex.def Info: img/Ejer3T2Script.jpg  used on input line 314.
@@ -1099,17 +1099,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [14 <./img/Ejer3T2Script.jpg>]
-<img/Ejer3T2Pagina.jpg, id=220, 963.6pt x 522.45187pt>
+<img/Ejer3T2Pagina.jpg, id=227, 963.6pt x 522.45187pt>
 File: img/Ejer3T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer3T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer3T2Pagina.jpg  used on input line 322.
 (pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
-<img/Ejer3T2Result.jpg, id=221, 963.6pt x 522.45187pt>
+<img/Ejer3T2Result.jpg, id=228, 963.6pt x 522.45187pt>
 File: img/Ejer3T2Result.jpg Graphic file (type jpg)
 <use img/Ejer3T2Result.jpg>
 Package pdftex.def Info: img/Ejer3T2Result.jpg  used on input line 330.
 (pdftex.def)             Requested size: 443.57848pt x 240.49818pt.
-<img/Ejer4T2HTML.jpg, id=222, 559.33969pt x 398.23781pt>
+<img/Ejer4T2HTML.jpg, id=229, 559.33969pt x 398.23781pt>
 File: img/Ejer4T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer4T2HTML.jpg>
 Package pdftex.def Info: img/Ejer4T2HTML.jpg  used on input line 343.
@@ -1132,7 +1132,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [15 <./img/Ejer3T2Pagina.jpg> <./img/Ejer3T2Result.jpg>]
-<img/Ejer4T2Script.jpg, id=229, 587.19376pt x 697.8572pt>
+<img/Ejer4T2Script.jpg, id=237, 587.19376pt x 697.8572pt>
 File: img/Ejer4T2Script.jpg Graphic file (type jpg)
 <use img/Ejer4T2Script.jpg>
 Package pdftex.def Info: img/Ejer4T2Script.jpg  used on input line 351.
@@ -1155,7 +1155,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [16 <./img/Ejer4T2HTML.jpg>]
-<img/Ejer4T2Pagina.jpg, id=235, 963.6pt x 523.20468pt>
+<img/Ejer4T2Pagina.jpg, id=243, 963.6pt x 523.20468pt>
 File: img/Ejer4T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer4T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer4T2Pagina.jpg  used on input line 359.
@@ -1178,12 +1178,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [17 <./img/Ejer4T2Script.jpg>]
-<img/Ejer4T2Result.jpg, id=241, 963.6pt x 494.59781pt>
+<img/Ejer4T2Result.jpg, id=249, 963.6pt x 494.59781pt>
 File: img/Ejer4T2Result.jpg Graphic file (type jpg)
 <use img/Ejer4T2Result.jpg>
 Package pdftex.def Info: img/Ejer4T2Result.jpg  used on input line 367.
 (pdftex.def)             Requested size: 443.57848pt x 227.67622pt.
-<img/Ejer5T2HTML.jpg, id=242, 541.27219pt x 339.51843pt>
+<img/Ejer5T2HTML.jpg, id=250, 541.27219pt x 339.51843pt>
 File: img/Ejer5T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer5T2HTML.jpg>
 Package pdftex.def Info: img/Ejer5T2HTML.jpg  used on input line 380.
@@ -1206,7 +1206,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [18 <./img/Ejer4T2Pagina.jpg> <./img/Ejer4T2Result.jpg>]
-<img/Ejer5T2Sript.jpg, id=249, 484.05844pt x 708.39656pt>
+<img/Ejer5T2Sript.jpg, id=258, 484.05844pt x 708.39656pt>
 File: img/Ejer5T2Sript.jpg Graphic file (type jpg)
 <use img/Ejer5T2Sript.jpg>
 Package pdftex.def Info: img/Ejer5T2Sript.jpg  used on input line 388.
@@ -1249,17 +1249,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [20 <./img/Ejer5T2Sript.jpg>]
-<img/Ejer5T2Pagina.jpg, id=261, 963.6pt x 496.85625pt>
+<img/Ejer5T2Pagina.jpg, id=270, 963.6pt x 496.85625pt>
 File: img/Ejer5T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer5T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer5T2Pagina.jpg  used on input line 396.
 (pdftex.def)             Requested size: 443.57848pt x 228.71585pt.
-<img/Ejer5T2Result.jpg, id=262, 963.6pt x 495.35063pt>
+<img/Ejer5T2Result.jpg, id=271, 963.6pt x 495.35063pt>
 File: img/Ejer5T2Result.jpg Graphic file (type jpg)
 <use img/Ejer5T2Result.jpg>
 Package pdftex.def Info: img/Ejer5T2Result.jpg  used on input line 404.
 (pdftex.def)             Requested size: 443.57848pt x 228.02278pt.
-<img/Ejer6T2HTML.jpg, id=263, 600.74437pt x 353.06906pt>
+<img/Ejer6T2HTML.jpg, id=272, 600.74437pt x 353.06906pt>
 File: img/Ejer6T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer6T2HTML.jpg>
 Package pdftex.def Info: img/Ejer6T2HTML.jpg  used on input line 417.
@@ -1282,7 +1282,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [21 <./img/Ejer5T2Pagina.jpg> <./img/Ejer5T2Result.jpg>]
-<img/Ejer6T2Scipr.jpg, id=270, 495.35063pt x 692.5875pt>
+<img/Ejer6T2Scipr.jpg, id=280, 495.35063pt x 692.5875pt>
 File: img/Ejer6T2Scipr.jpg Graphic file (type jpg)
 <use img/Ejer6T2Scipr.jpg>
 Package pdftex.def Info: img/Ejer6T2Scipr.jpg  used on input line 425.
@@ -1305,7 +1305,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [22 <./img/Ejer6T2HTML.jpg>]
-<img/Ejer6T2Pagina.jpg, id=276, 963.6pt x 499.11469pt>
+<img/Ejer6T2Pagina.jpg, id=286, 963.6pt x 499.11469pt>
 File: img/Ejer6T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer6T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer6T2Pagina.jpg  used on input line 433.
@@ -1328,12 +1328,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [23 <./img/Ejer6T2Scipr.jpg>]
-<img/Ejer6T2Result.jpg, id=282, 963.6pt x 484.81125pt>
+<img/Ejer6T2Result.jpg, id=292, 963.6pt x 484.81125pt>
 File: img/Ejer6T2Result.jpg Graphic file (type jpg)
 <use img/Ejer6T2Result.jpg>
 Package pdftex.def Info: img/Ejer6T2Result.jpg  used on input line 441.
 (pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
-<img/Ejer7T2HTML.jpg, id=283, 533.74406pt x 727.96968pt>
+<img/Ejer7T2HTML.jpg, id=293, 533.74406pt x 727.96968pt>
 File: img/Ejer7T2HTML.jpg Graphic file (type jpg)
 <use img/Ejer7T2HTML.jpg>
 Package pdftex.def Info: img/Ejer7T2HTML.jpg  used on input line 454.
@@ -1356,7 +1356,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [24 <./img/Ejer6T2Pagina.jpg> <./img/Ejer6T2Result.jpg>]
-<img/Ejer7T2Script.jpg, id=290, 461.47406pt x 696.35156pt>
+<img/Ejer7T2Script.jpg, id=301, 461.47406pt x 696.35156pt>
 File: img/Ejer7T2Script.jpg Graphic file (type jpg)
 <use img/Ejer7T2Script.jpg>
 Package pdftex.def Info: img/Ejer7T2Script.jpg  used on input line 462.
@@ -1417,17 +1417,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [27 <./img/Ejer7T2Script.jpg>]
-<img/Ejer7T2Pagina.jpg, id=306, 963.6pt x 497.60907pt>
+<img/Ejer7T2Pagina.jpg, id=317, 963.6pt x 497.60907pt>
 File: img/Ejer7T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer7T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer7T2Pagina.jpg  used on input line 470.
 (pdftex.def)             Requested size: 443.57848pt x 229.0624pt.
-<img/Ejer7T2Result.jpg, id=307, 963.6pt x 484.81125pt>
+<img/Ejer7T2Result.jpg, id=318, 963.6pt x 484.81125pt>
 File: img/Ejer7T2Result.jpg Graphic file (type jpg)
 <use img/Ejer7T2Result.jpg>
 Package pdftex.def Info: img/Ejer7T2Result.jpg  used on input line 478.
 (pdftex.def)             Requested size: 443.57848pt x 223.17122pt.
-<img/Ejer8T2HTMl.jpg, id=308, 608.2725pt x 338.01282pt>
+<img/Ejer8T2HTMl.jpg, id=319, 608.2725pt x 338.01282pt>
 File: img/Ejer8T2HTMl.jpg Graphic file (type jpg)
 <use img/Ejer8T2HTMl.jpg>
 Package pdftex.def Info: img/Ejer8T2HTMl.jpg  used on input line 491.
@@ -1450,7 +1450,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [28 <./img/Ejer7T2Pagina.jpg> <./img/Ejer7T2Result.jpg>]
-<img/Ejer8T2Script.jpg, id=315, 378.66469pt x 711.4078pt>
+<img/Ejer8T2Script.jpg, id=327, 378.66469pt x 711.4078pt>
 File: img/Ejer8T2Script.jpg Graphic file (type jpg)
 <use img/Ejer8T2Script.jpg>
 Package pdftex.def Info: img/Ejer8T2Script.jpg  used on input line 499.
@@ -1493,22 +1493,22 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [30 <./img/Ejer8T2Script.jpg>]
-<img/Ejer8T2Pagina.jpg, id=326, 963.6pt x 499.11469pt>
+<img/Ejer8T2Pagina.jpg, id=338, 963.6pt x 499.11469pt>
 File: img/Ejer8T2Pagina.jpg Graphic file (type jpg)
 <use img/Ejer8T2Pagina.jpg>
 Package pdftex.def Info: img/Ejer8T2Pagina.jpg  used on input line 507.
 (pdftex.def)             Requested size: 443.57848pt x 229.75546pt.
-<img/Ejer8T2Result.jpg, id=327, 963.6pt x 490.83376pt>
+<img/Ejer8T2Result.jpg, id=339, 963.6pt x 490.83376pt>
 File: img/Ejer8T2Result.jpg Graphic file (type jpg)
 <use img/Ejer8T2Result.jpg>
 Package pdftex.def Info: img/Ejer8T2Result.jpg  used on input line 515.
 (pdftex.def)             Requested size: 443.57848pt x 225.94354pt.
-<img/wsLuis.jpg, id=328, 963.6pt x 520.19344pt>
+<img/wsLuis.jpg, id=340, 963.6pt x 520.19344pt>
 File: img/wsLuis.jpg Graphic file (type jpg)
 <use img/wsLuis.jpg>
 Package pdftex.def Info: img/wsLuis.jpg  used on input line 530.
 (pdftex.def)             Requested size: 443.57848pt x 239.45856pt.
-<img/L1.jpg, id=329, 963.6pt x 384.6872pt>
+<img/L1.jpg, id=341, 963.6pt x 384.6872pt>
 File: img/L1.jpg Graphic file (type jpg)
 <use img/L1.jpg>
 Package pdftex.def Info: img/L1.jpg  used on input line 538.
@@ -1531,12 +1531,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [31 <./img/Ejer8T2Pagina.jpg> <./img/Ejer8T2Result.jpg>]
-<img/L2.jpg, id=337, 963.6pt x 377.91188pt>
+<img/L2.jpg, id=349, 963.6pt x 377.91188pt>
 File: img/L2.jpg Graphic file (type jpg)
 <use img/L2.jpg>
 Package pdftex.def Info: img/L2.jpg  used on input line 545.
 (pdftex.def)             Requested size: 443.57848pt x 173.96266pt.
-<img/L3.jpg, id=338, 963.6pt x 380.17032pt>
+<img/L3.jpg, id=350, 963.6pt x 380.17032pt>
 File: img/L3.jpg Graphic file (type jpg)
 <use img/L3.jpg>
 Package pdftex.def Info: img/L3.jpg  used on input line 552.
@@ -1559,17 +1559,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [32 <./img/wsLuis.jpg> <./img/L1.jpg>]
-<img/L4.jpg, id=345, 963.6pt x 355.3275pt>
+<img/L4.jpg, id=358, 963.6pt x 355.3275pt>
 File: img/L4.jpg Graphic file (type jpg)
 <use img/L4.jpg>
 Package pdftex.def Info: img/L4.jpg  used on input line 559.
 (pdftex.def)             Requested size: 443.57848pt x 163.56648pt.
-<img/L5.jpg, id=346, 963.6pt x 371.88937pt>
+<img/L5.jpg, id=359, 963.6pt x 371.88937pt>
 File: img/L5.jpg Graphic file (type jpg)
 <use img/L5.jpg>
 Package pdftex.def Info: img/L5.jpg  used on input line 566.
 (pdftex.def)             Requested size: 443.57848pt x 171.19035pt.
-<img/L6.jpg, id=347, 963.6pt x 376.40625pt>
+<img/L6.jpg, id=360, 963.6pt x 376.40625pt>
 File: img/L6.jpg Graphic file (type jpg)
 <use img/L6.jpg>
 Package pdftex.def Info: img/L6.jpg  used on input line 573.
@@ -1592,17 +1592,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [33 <./img/L2.jpg> <./img/L3.jpg> <./img/L4.jpg>]
-<img/L7.jpg, id=355, 963.6pt x 383.93437pt>
+<img/L7.jpg, id=368, 963.6pt x 383.93437pt>
 File: img/L7.jpg Graphic file (type jpg)
 <use img/L7.jpg>
 Package pdftex.def Info: img/L7.jpg  used on input line 580.
 (pdftex.def)             Requested size: 443.57848pt x 176.73497pt.
-<img/L8.jpg, id=356, 963.6pt x 377.91188pt>
+<img/L8.jpg, id=369, 963.6pt x 377.91188pt>
 File: img/L8.jpg Graphic file (type jpg)
 <use img/L8.jpg>
 Package pdftex.def Info: img/L8.jpg  used on input line 587.
 (pdftex.def)             Requested size: 443.57848pt x 173.96266pt.
-<img/L9.jpg, id=357, 963.6pt x 380.92313pt>
+<img/L9.jpg, id=370, 963.6pt x 380.92313pt>
 File: img/L9.jpg Graphic file (type jpg)
 <use img/L9.jpg>
 Package pdftex.def Info: img/L9.jpg  used on input line 594.
@@ -1625,17 +1625,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [34 <./img/L5.jpg> <./img/L6.jpg> <./img/L7.jpg>]
-<img/L10.jpg, id=365, 963.6pt x 379.4175pt>
+<img/L10.jpg, id=378, 963.6pt x 379.4175pt>
 File: img/L10.jpg Graphic file (type jpg)
 <use img/L10.jpg>
 Package pdftex.def Info: img/L10.jpg  used on input line 601.
 (pdftex.def)             Requested size: 443.57848pt x 174.65573pt.
-<img/L11.jpg, id=366, 963.6pt x 386.19281pt>
+<img/L11.jpg, id=379, 963.6pt x 386.19281pt>
 File: img/L11.jpg Graphic file (type jpg)
 <use img/L11.jpg>
 Package pdftex.def Info: img/L11.jpg  used on input line 608.
 (pdftex.def)             Requested size: 443.57848pt x 177.77458pt.
-<img/L12.jpg, id=367, 963.6pt x 386.19281pt>
+<img/L12.jpg, id=380, 963.6pt x 386.19281pt>
 File: img/L12.jpg Graphic file (type jpg)
 <use img/L12.jpg>
 Package pdftex.def Info: img/L12.jpg  used on input line 615.
@@ -1658,17 +1658,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [35 <./img/L8.jpg> <./img/L9.jpg> <./img/L10.jpg>]
-<img/L13.jpg, id=375, 963.6pt x 362.85562pt>
+<img/L13.jpg, id=388, 963.6pt x 362.85562pt>
 File: img/L13.jpg Graphic file (type jpg)
 <use img/L13.jpg>
 Package pdftex.def Info: img/L13.jpg  used on input line 622.
 (pdftex.def)             Requested size: 443.57848pt x 167.03188pt.
-<img/L14.jpg, id=376, 963.6pt x 383.18156pt>
+<img/L14.jpg, id=389, 963.6pt x 383.18156pt>
 File: img/L14.jpg Graphic file (type jpg)
 <use img/L14.jpg>
 Package pdftex.def Info: img/L14.jpg  used on input line 629.
 (pdftex.def)             Requested size: 443.57848pt x 176.38843pt.
-<img/L15.jpg, id=377, 963.6pt x 371.88937pt>
+<img/L15.jpg, id=390, 963.6pt x 371.88937pt>
 File: img/L15.jpg Graphic file (type jpg)
 <use img/L15.jpg>
 Package pdftex.def Info: img/L15.jpg  used on input line 636.
@@ -1691,12 +1691,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [36 <./img/L11.jpg> <./img/L12.jpg> <./img/L13.jpg>]
-<img/L16.jpg, id=385, 963.6pt x 342.5297pt>
+<img/L16.jpg, id=398, 963.6pt x 342.5297pt>
 File: img/L16.jpg Graphic file (type jpg)
 <use img/L16.jpg>
 Package pdftex.def Info: img/L16.jpg  used on input line 643.
 (pdftex.def)             Requested size: 443.57848pt x 157.67532pt.
-<img/L17.jpg, id=386, 963.6pt x 379.4175pt>
+<img/L17.jpg, id=399, 963.6pt x 379.4175pt>
 File: img/L17.jpg Graphic file (type jpg)
 <use img/L17.jpg>
 Package pdftex.def Info: img/L17.jpg  used on input line 650.
@@ -1723,12 +1723,12 @@ File: img/wsLuis.jpg Graphic file (type jpg)
 <use img/wsLuis.jpg>
 Package pdftex.def Info: img/wsLuis.jpg  used on input line 662.
 (pdftex.def)             Requested size: 443.57848pt x 239.45856pt.
-<img/W1.jpg, id=395, 963.6pt x 213.79875pt>
+<img/W1.jpg, id=408, 963.6pt x 213.79875pt>
 File: img/W1.jpg Graphic file (type jpg)
 <use img/W1.jpg>
 Package pdftex.def Info: img/W1.jpg  used on input line 673.
 (pdftex.def)             Requested size: 443.57848pt x 98.41711pt.
-<img/w2.jpg, id=396, 963.6pt x 195.73125pt>
+<img/w2.jpg, id=409, 963.6pt x 195.73125pt>
 File: img/w2.jpg Graphic file (type jpg)
 <use img/w2.jpg>
 Package pdftex.def Info: img/w2.jpg  used on input line 680.
@@ -1751,27 +1751,27 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [38 <./img/L17.jpg>]
-<img/w3.jpg, id=403, 963.6pt x 191.21437pt>
+<img/w3.jpg, id=417, 963.6pt x 191.21437pt>
 File: img/w3.jpg Graphic file (type jpg)
 <use img/w3.jpg>
 Package pdftex.def Info: img/w3.jpg  used on input line 687.
 (pdftex.def)             Requested size: 443.57848pt x 88.02094pt.
-<img/w4.jpg, id=404, 963.6pt x 188.95593pt>
+<img/w4.jpg, id=418, 963.6pt x 188.95593pt>
 File: img/w4.jpg Graphic file (type jpg)
 <use img/w4.jpg>
 Package pdftex.def Info: img/w4.jpg  used on input line 694.
 (pdftex.def)             Requested size: 443.57848pt x 86.98132pt.
-<img/w5.jpg, id=405, 963.6pt x 199.49532pt>
+<img/w5.jpg, id=419, 963.6pt x 199.49532pt>
 File: img/w5.jpg Graphic file (type jpg)
 <use img/w5.jpg>
 Package pdftex.def Info: img/w5.jpg  used on input line 701.
 (pdftex.def)             Requested size: 443.57848pt x 91.83287pt.
-<img/w6.jpg, id=406, 963.6pt x 378.66469pt>
+<img/w6.jpg, id=420, 963.6pt x 378.66469pt>
 File: img/w6.jpg Graphic file (type jpg)
 <use img/w6.jpg>
 Package pdftex.def Info: img/w6.jpg  used on input line 708.
 (pdftex.def)             Requested size: 443.57848pt x 174.3092pt.
-<img/w7.jpg, id=407, 963.6pt x 201.00093pt>
+<img/w7.jpg, id=421, 963.6pt x 201.00093pt>
 File: img/w7.jpg Graphic file (type jpg)
 <use img/w7.jpg>
 Package pdftex.def Info: img/w7.jpg  used on input line 715.
@@ -1794,27 +1794,27 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [39 <./img/W1.jpg> <./img/w2.jpg> <./img/w3.jpg> <./img/w4.jpg> <./img/w5.jpg>]
-<img/w8.jpg, id=417, 963.6pt x 200.24812pt>
+<img/w8.jpg, id=432, 963.6pt x 200.24812pt>
 File: img/w8.jpg Graphic file (type jpg)
 <use img/w8.jpg>
 Package pdftex.def Info: img/w8.jpg  used on input line 722.
 (pdftex.def)             Requested size: 443.57848pt x 92.17941pt.
-<img/w9.jpg, id=418, 963.6pt x 197.98969pt>
+<img/w9.jpg, id=433, 963.6pt x 197.98969pt>
 File: img/w9.jpg Graphic file (type jpg)
 <use img/w9.jpg>
 Package pdftex.def Info: img/w9.jpg  used on input line 729.
 (pdftex.def)             Requested size: 443.57848pt x 91.1398pt.
-<img/w10.jpg, id=419, 963.6pt x 191.21437pt>
+<img/w10.jpg, id=434, 963.6pt x 191.21437pt>
 File: img/w10.jpg Graphic file (type jpg)
 <use img/w10.jpg>
 Package pdftex.def Info: img/w10.jpg  used on input line 736.
 (pdftex.def)             Requested size: 443.57848pt x 88.02094pt.
-<img/w11.jpg, id=420, 963.6pt x 310.91156pt>
+<img/w11.jpg, id=435, 963.6pt x 310.91156pt>
 File: img/w11.jpg Graphic file (type jpg)
 <use img/w11.jpg>
 Package pdftex.def Info: img/w11.jpg  used on input line 743.
 (pdftex.def)             Requested size: 443.57848pt x 143.12067pt.
-<img/w12.jpg, id=421, 963.6pt x 359.09157pt>
+<img/w12.jpg, id=436, 963.6pt x 359.09157pt>
 File: img/w12.jpg Graphic file (type jpg)
 <use img/w12.jpg>
 Package pdftex.def Info: img/w12.jpg  used on input line 750.
@@ -1837,22 +1837,22 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 
 [40 <./img/w6.jpg> <./img/w7.jpg> <./img/w8.jpg> <./img/w9.jpg> <./img/w10.jpg>
 ]
-<img/w13.jpg, id=431, 963.6pt x 202.50656pt>
+<img/w13.jpg, id=446, 963.6pt x 202.50656pt>
 File: img/w13.jpg Graphic file (type jpg)
 <use img/w13.jpg>
 Package pdftex.def Info: img/w13.jpg  used on input line 757.
 (pdftex.def)             Requested size: 443.57848pt x 93.21902pt.
-<img/w14.jpg, id=432, 963.6pt x 184.43906pt>
+<img/w14.jpg, id=447, 963.6pt x 184.43906pt>
 File: img/w14.jpg Graphic file (type jpg)
 <use img/w14.jpg>
 Package pdftex.def Info: img/w14.jpg  used on input line 764.
 (pdftex.def)             Requested size: 443.57848pt x 84.90208pt.
-<img/w15.jpg, id=433, 963.6pt x 272.51813pt>
+<img/w15.jpg, id=448, 963.6pt x 272.51813pt>
 File: img/w15.jpg Graphic file (type jpg)
 <use img/w15.jpg>
 Package pdftex.def Info: img/w15.jpg  used on input line 771.
 (pdftex.def)             Requested size: 443.57848pt x 125.44717pt.
-<img/w16.jpg, id=434, 963.6pt x 239.39438pt>
+<img/w16.jpg, id=449, 963.6pt x 239.39438pt>
 File: img/w16.jpg Graphic file (type jpg)
 <use img/w16.jpg>
 Package pdftex.def Info: img/w16.jpg  used on input line 778.
@@ -1875,22 +1875,22 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [41 <./img/w11.jpg> <./img/w12.jpg> <./img/w13.jpg> <./img/w14.jpg>]
-<img/w17.jpg, id=443, 963.6pt x 241.65282pt>
+<img/w17.jpg, id=458, 963.6pt x 241.65282pt>
 File: img/w17.jpg Graphic file (type jpg)
 <use img/w17.jpg>
 Package pdftex.def Info: img/w17.jpg  used on input line 785.
 (pdftex.def)             Requested size: 443.57848pt x 111.23907pt.
-<img/w18.jpg, id=444, 963.6pt x 402.00188pt>
+<img/w18.jpg, id=459, 963.6pt x 402.00188pt>
 File: img/w18.jpg Graphic file (type jpg)
 <use img/w18.jpg>
 Package pdftex.def Info: img/w18.jpg  used on input line 792.
 (pdftex.def)             Requested size: 443.57848pt x 185.05191pt.
-<img/w19.jpg, id=445, 963.6pt x 247.67531pt>
+<img/w19.jpg, id=460, 963.6pt x 247.67531pt>
 File: img/w19.jpg Graphic file (type jpg)
 <use img/w19.jpg>
 Package pdftex.def Info: img/w19.jpg  used on input line 799.
 (pdftex.def)             Requested size: 443.57848pt x 114.01138pt.
-<img/w20.jpg, id=446, 963.6pt x 195.73125pt>
+<img/w20.jpg, id=461, 963.6pt x 195.73125pt>
 File: img/w20.jpg Graphic file (type jpg)
 <use img/w20.jpg>
 Package pdftex.def Info: img/w20.jpg  used on input line 806.
@@ -1913,22 +1913,22 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [42 <./img/w15.jpg> <./img/w16.jpg> <./img/w17.jpg> <./img/w18.jpg>]
-<img/w21.jpg, id=455, 963.6pt x 423.83344pt>
+<img/w21.jpg, id=470, 963.6pt x 423.83344pt>
 File: img/w21.jpg Graphic file (type jpg)
 <use img/w21.jpg>
 Package pdftex.def Info: img/w21.jpg  used on input line 813.
 (pdftex.def)             Requested size: 443.57848pt x 195.10155pt.
-<img/w22.jpg, id=456, 963.6pt x 208.52907pt>
+<img/w22.jpg, id=471, 963.6pt x 208.52907pt>
 File: img/w22.jpg Graphic file (type jpg)
 <use img/w22.jpg>
 Package pdftex.def Info: img/w22.jpg  used on input line 820.
 (pdftex.def)             Requested size: 443.57848pt x 95.99135pt.
-<img/A1.jpg, id=457, 1478.52374pt x 501.875pt>
+<img/A1.jpg, id=472, 1478.52374pt x 501.875pt>
 File: img/A1.jpg Graphic file (type jpg)
 <use img/A1.jpg>
 Package pdftex.def Info: img/A1.jpg  used on input line 831.
 (pdftex.def)             Requested size: 443.57848pt x 150.5713pt.
-<img/A2.jpg, id=458, 1606.0pt x 504.88625pt>
+<img/A2.jpg, id=473, 1606.0pt x 504.88625pt>
 File: img/A2.jpg Graphic file (type jpg)
 <use img/A2.jpg>
 Package pdftex.def Info: img/A2.jpg  used on input line 839.
@@ -1951,17 +1951,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [43 <./img/w19.jpg> <./img/w20.jpg> <./img/w21.jpg> <./img/w22.jpg>]
-<img/A3.jpg, id=468, 1469.49pt x 486.81876pt>
+<img/A3.jpg, id=483, 1469.49pt x 486.81876pt>
 File: img/A3.jpg Graphic file (type jpg)
 <use img/A3.jpg>
 Package pdftex.def Info: img/A3.jpg  used on input line 847.
 (pdftex.def)             Requested size: 443.57848pt x 146.94557pt.
-<img/A4.jpg, id=469, 1494.58376pt x 516.93124pt>
+<img/A4.jpg, id=484, 1494.58376pt x 516.93124pt>
 File: img/A4.jpg Graphic file (type jpg)
 <use img/A4.jpg>
 Package pdftex.def Info: img/A4.jpg  used on input line 855.
 (pdftex.def)             Requested size: 443.57848pt x 153.41626pt.
-<img/A5.jpg, id=470, 1499.6025pt x 446.66875pt>
+<img/A5.jpg, id=485, 1499.6025pt x 446.66875pt>
 File: img/A5.jpg Graphic file (type jpg)
 <use img/A5.jpg>
 Package pdftex.def Info: img/A5.jpg  used on input line 863.
@@ -1984,17 +1984,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [44 <./img/A1.jpg> <./img/A2.jpg> <./img/A3.jpg>]
-<img/A6.jpg, id=478, 1381.16pt x 483.8075pt>
+<img/A6.jpg, id=494, 1381.16pt x 483.8075pt>
 File: img/A6.jpg Graphic file (type jpg)
 <use img/A6.jpg>
 Package pdftex.def Info: img/A6.jpg  used on input line 871.
 (pdftex.def)             Requested size: 443.57848pt x 155.37523pt.
-<img/A7.jpg, id=479, 1371.1225pt x 451.6875pt>
+<img/A7.jpg, id=495, 1371.1225pt x 451.6875pt>
 File: img/A7.jpg Graphic file (type jpg)
 <use img/A7.jpg>
 Package pdftex.def Info: img/A7.jpg  used on input line 879.
 (pdftex.def)             Requested size: 443.57848pt x 146.12814pt.
-<img/A8.jpg, id=480, 1417.295pt x 453.695pt>
+<img/A8.jpg, id=496, 1417.295pt x 453.695pt>
 File: img/A8.jpg Graphic file (type jpg)
 <use img/A8.jpg>
 Package pdftex.def Info: img/A8.jpg  used on input line 887.
@@ -2017,17 +2017,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [45 <./img/A4.jpg> <./img/A5.jpg> <./img/A6.jpg>]
-<img/A9.jpg, id=488, 1386.17876pt x 500.87125pt>
+<img/A9.jpg, id=504, 1386.17876pt x 500.87125pt>
 File: img/A9.jpg Graphic file (type jpg)
 <use img/A9.jpg>
 Package pdftex.def Info: img/A9.jpg  used on input line 895.
 (pdftex.def)             Requested size: 443.57848pt x 160.27441pt.
-<img/A10.jpg, id=489, 1471.4975pt x 442.65375pt>
+<img/A10.jpg, id=505, 1471.4975pt x 442.65375pt>
 File: img/A10.jpg Graphic file (type jpg)
 <use img/A10.jpg>
 Package pdftex.def Info: img/A10.jpg  used on input line 903.
 (pdftex.def)             Requested size: 443.57848pt x 133.4388pt.
-<img/A11.jpg, id=490, 1473.505pt x 501.875pt>
+<img/A11.jpg, id=506, 1473.505pt x 501.875pt>
 File: img/A11.jpg Graphic file (type jpg)
 <use img/A11.jpg>
 Package pdftex.def Info: img/A11.jpg  used on input line 912.
@@ -2050,17 +2050,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [46 <./img/A7.jpg> <./img/A8.jpg> <./img/A9.jpg>]
-<img/A12.jpg, id=498, 1350.04375pt x 648.4225pt>
+<img/A12.jpg, id=514, 1350.04375pt x 648.4225pt>
 File: img/A12.jpg Graphic file (type jpg)
 <use img/A12.jpg>
 Package pdftex.def Info: img/A12.jpg  used on input line 919.
 (pdftex.def)             Requested size: 443.57848pt x 213.05003pt.
-<img/A13.jpg, id=499, 1606.0pt x 395.4775pt>
+<img/A13.jpg, id=515, 1606.0pt x 395.4775pt>
 File: img/A13.jpg Graphic file (type jpg)
 <use img/A13.jpg>
 Package pdftex.def Info: img/A13.jpg  used on input line 927.
 (pdftex.def)             Requested size: 443.57848pt x 109.23035pt.
-<img/A14.jpg, id=500, 1606.0pt x 404.51125pt>
+<img/A14.jpg, id=516, 1606.0pt x 404.51125pt>
 File: img/A14.jpg Graphic file (type jpg)
 <use img/A14.jpg>
 Package pdftex.def Info: img/A14.jpg  used on input line 936.
@@ -2083,17 +2083,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [47 <./img/A10.jpg> <./img/A11.jpg> <./img/A12.jpg>]
-<img/A15.jpg, id=508, 1285.80376pt x 796.9775pt>
+<img/A15.jpg, id=524, 1285.80376pt x 796.9775pt>
 File: img/A15.jpg Graphic file (type jpg)
 <use img/A15.jpg>
 Package pdftex.def Info: img/A15.jpg  used on input line 944.
 (pdftex.def)             Requested size: 443.57848pt x 274.94536pt.
-<img/A16.jpg, id=509, 1285.80376pt x 796.9775pt>
+<img/A16.jpg, id=525, 1285.80376pt x 796.9775pt>
 File: img/A16.jpg Graphic file (type jpg)
 <use img/A16.jpg>
 Package pdftex.def Info: img/A16.jpg  used on input line 951.
 (pdftex.def)             Requested size: 443.57848pt x 274.94536pt.
-<img/A17.jpg, id=510, 1343.0175pt x 488.82625pt>
+<img/A17.jpg, id=526, 1343.0175pt x 488.82625pt>
 File: img/A17.jpg Graphic file (type jpg)
 <use img/A17.jpg>
 Package pdftex.def Info: img/A17.jpg  used on input line 958.
@@ -2116,12 +2116,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [48 <./img/A13.jpg> <./img/A14.jpg> <./img/A15.jpg>]
-<img/A18.jpg, id=518, 1497.595pt x 666.49pt>
+<img/A18.jpg, id=534, 1497.595pt x 666.49pt>
 File: img/A18.jpg Graphic file (type jpg)
 <use img/A18.jpg>
 Package pdftex.def Info: img/A18.jpg  used on input line 965.
 (pdftex.def)             Requested size: 443.57848pt x 197.40608pt.
-<img/A19.jpg, id=519, 1305.87875pt x 806.01125pt>
+<img/A19.jpg, id=535, 1305.87875pt x 806.01125pt>
 File: img/A19.jpg Graphic file (type jpg)
 <use img/A19.jpg>
 Package pdftex.def Info: img/A19.jpg  used on input line 972.
@@ -2144,12 +2144,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [49 <./img/A16.jpg> <./img/A17.jpg>]
-<img/A20.jpg, id=527, 1154.3125pt x 507.8975pt>
+<img/A20.jpg, id=543, 1154.3125pt x 507.8975pt>
 File: img/A20.jpg Graphic file (type jpg)
 <use img/A20.jpg>
 Package pdftex.def Info: img/A20.jpg  used on input line 979.
 (pdftex.def)             Requested size: 443.57848pt x 195.17302pt.
-<img/A21.jpg, id=528, 1098.1025pt x 823.075pt>
+<img/A21.jpg, id=544, 1098.1025pt x 823.075pt>
 File: img/A21.jpg Graphic file (type jpg)
 <use img/A21.jpg>
 Package pdftex.def Info: img/A21.jpg  used on input line 987.
@@ -2172,12 +2172,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [50 <./img/A18.jpg> <./img/A19.jpg>]
-<img/F1.png, id=535, 994.917pt x 422.7795pt>
+<img/F1.png, id=551, 994.917pt x 422.7795pt>
 File: img/F1.png Graphic file (type png)
 <use img/F1.png>
 Package pdftex.def Info: img/F1.png  used on input line 1000.
 (pdftex.def)             Requested size: 443.57848pt x 188.49431pt.
-<img/F2.png, id=536, 982.26974pt x 390.258pt>
+<img/F2.png, id=552, 982.26974pt x 390.258pt>
 File: img/F2.png Graphic file (type png)
 <use img/F2.png>
 Package pdftex.def Info: img/F2.png  used on input line 1008.
@@ -2200,12 +2200,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [51 <./img/A20.jpg> <./img/A21.jpg>]
-<img/F3.png, id=543, 916.6245pt x 367.97475pt>
+<img/F3.png, id=559, 916.6245pt x 367.97475pt>
 File: img/F3.png Graphic file (type png)
 <use img/F3.png>
 Package pdftex.def Info: img/F3.png  used on input line 1016.
 (pdftex.def)             Requested size: 443.57848pt x 178.0745pt.
-<img/F4.png, id=544, 952.15726pt x 370.986pt>
+<img/F4.png, id=560, 952.15726pt x 370.986pt>
 File: img/F4.png Graphic file (type png)
 <use img/F4.png>
 Package pdftex.def Info: img/F4.png  used on input line 1024.
@@ -2228,17 +2228,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [52 <./img/F1.png> <./img/F2.png>]
-<img/F5.png, id=553, 1132.83224pt x 373.99725pt>
+<img/F5.png, id=570, 1132.83224pt x 373.99725pt>
 File: img/F5.png Graphic file (type png)
 <use img/F5.png>
 Package pdftex.def Info: img/F5.png  used on input line 1032.
 (pdftex.def)             Requested size: 443.57848pt x 146.44612pt.
-<img/F6.png, id=554, 1135.8435pt x 330.033pt>
+<img/F6.png, id=571, 1135.8435pt x 330.033pt>
 File: img/F6.png Graphic file (type png)
 <use img/F6.png>
 Package pdftex.def Info: img/F6.png  used on input line 1040.
 (pdftex.def)             Requested size: 443.57848pt x 128.8886pt.
-<img/F7.png, id=555, 914.2155pt x 392.667pt>
+<img/F7.png, id=572, 914.2155pt x 392.667pt>
 File: img/F7.png Graphic file (type png)
 <use img/F7.png>
 Package pdftex.def Info: img/F7.png  used on input line 1048.
@@ -2261,17 +2261,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [53 <./img/F3.png> <./img/F4.png> <./img/F5.png>]
-<img/F8.png, id=566, 864.22874pt x 461.92575pt>
+<img/F8.png, id=583, 864.22874pt x 461.92575pt>
 File: img/F8.png Graphic file (type png)
 <use img/F8.png>
 Package pdftex.def Info: img/F8.png  used on input line 1056.
 (pdftex.def)             Requested size: 443.57848pt x 237.08737pt.
-<img/F9.png, id=567, 895.54575pt x 384.2355pt>
+<img/F9.png, id=584, 895.54575pt x 384.2355pt>
 File: img/F9.png Graphic file (type png)
 <use img/F9.png>
 Package pdftex.def Info: img/F9.png  used on input line 1064.
 (pdftex.def)             Requested size: 443.57848pt x 190.31734pt.
-<img/F10.png, id=568, 882.8985pt x 381.22424pt>
+<img/F10.png, id=585, 882.8985pt x 381.22424pt>
 File: img/F10.png Graphic file (type png)
 <use img/F10.png>
 Package pdftex.def Info: img/F10.png  used on input line 1072.
@@ -2294,17 +2294,17 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [54 <./img/F6.png> <./img/F7.png> <./img/F8.png>]
-<img/F11.png, id=579, 1127.412pt x 429.40425pt>
+<img/F11.png, id=596, 1127.412pt x 429.40425pt>
 File: img/F11.png Graphic file (type png)
 <use img/F11.png>
 Package pdftex.def Info: img/F11.png  used on input line 1081.
 (pdftex.def)             Requested size: 443.57848pt x 168.94777pt.
-<img/F12.png, id=580, 492.03825pt x 545.03625pt>
+<img/F12.png, id=597, 492.03825pt x 545.03625pt>
 File: img/F12.png Graphic file (type png)
 <use img/F12.png>
 Package pdftex.def Info: img/F12.png  used on input line 1088.
 (pdftex.def)             Requested size: 443.57848pt x 491.35976pt.
-<img/F13.png, id=581, 1128.01425pt x 449.88075pt>
+<img/F13.png, id=598, 1128.01425pt x 449.88075pt>
 File: img/F13.png Graphic file (type png)
 <use img/F13.png>
 Package pdftex.def Info: img/F13.png  used on input line 1096.
@@ -2327,7 +2327,7 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [55 <./img/F9.png> <./img/F10.png> <./img/F11.png>]
-<img/F14.png, id=593, 847.36575pt x 398.08725pt>
+<img/F14.png, id=610, 847.36575pt x 398.08725pt>
 File: img/F14.png Graphic file (type png)
 <use img/F14.png>
 Package pdftex.def Info: img/F14.png  used on input line 1105.
@@ -2350,12 +2350,12 @@ Package fancyhdr Warning: \headheight is too small (30.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.51407pt}.
 
 [56 <./img/F12.png>]
-<img/F15.png, id=600, 689.57625pt x 423.38174pt>
+<img/F15.png, id=617, 689.57625pt x 423.38174pt>
 File: img/F15.png Graphic file (type png)
 <use img/F15.png>
 Package pdftex.def Info: img/F15.png  used on input line 1113.
 (pdftex.def)             Requested size: 443.57848pt x 272.34589pt.
-<img/F16.png, id=601, 799.18575pt x 466.74374pt>
+<img/F16.png, id=618, 799.18575pt x 466.74374pt>
 File: img/F16.png Graphic file (type png)
 <use img/F16.png>
 Package pdftex.def Info: img/F16.png  used on input line 1120.
@@ -2461,27 +2461,83 @@ Package rerunfilecheck Warning: File `informe.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `informe.out':
-(rerunfilecheck)             Before: 3D5EE5C40D7F748B8CEC5170B9A0C7F1;7152
-(rerunfilecheck)             After:  85802E2BD8E68BDC47FB70F0ADCA4F13;7182.
+(rerunfilecheck)             Before: 2AAB15D436D199E0CD2059CF5BA97850;7220
+(rerunfilecheck)             After:  0BDE1543D86C11A3C70676C69161BA07;7093.
  ) 
 Here is how much of TeX's memory you used:
- 18556 strings out of 474370
- 317711 string characters out of 5741008
+ 18569 strings out of 474370
+ 317918 string characters out of 5741008
  1943754 words of memory out of 5000000
  40480 multiletter control sequences out of 15000+600000
  560478 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,17n,93p,975b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmbx12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DELL/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on informe.pdf (60 pages, 8726332 bytes).
+
+pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.7.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.6.5.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.6.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.6.4.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.6.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.6.3.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.6.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.6.2.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.6.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsubsection.6.1.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.5.8} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.5.7} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.5.6} has been referenced but does not ex
+ist, replaced by a fixed one
+
+<C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/DELL/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on informe.pdf (60 pages, 8728388 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 207 named destinations out of 1000 (max. 500000)
+ 726 PDF objects out of 1000 (max. 8388607)
+ 220 named destinations out of 1000 (max. 500000)
  812 words of extra memory for PDF output out of 10000 (max. 10000000)
 

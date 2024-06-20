@@ -1,7 +1,7 @@
-PWD c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe
+PWD c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe
 INPUT C:\Users\luisg\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\informe.tex
-OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.log
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\informe.tex
+OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.log
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -848,10 +848,10 @@ INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.aux
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.aux
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.aux
-OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.aux
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.aux
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.aux
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.aux
+OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.aux
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -871,18 +871,18 @@ INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.pdf
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.pdf
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+OUTPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
@@ -1022,6 +1022,20 @@ INPUT .\img\paracolocarlousamosappgames.jpg
 INPUT .\img\paracolocarlousamosappgames.jpg
 INPUT .\img\paracolocarlousamosappgames.jpg
 INPUT .\img\paracolocarlousamosappgames.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT img\accionesconunclick.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT .\img\accionesconunclick.jpg
+INPUT .\img\logo_episunsa.png
+INPUT .\img\logo_episunsa.png
+INPUT img\logo_episunsa.png
+INPUT .\img\logo_episunsa.png
+INPUT .\img\logo_abet.png
+INPUT img\logo_abet.png
+INPUT .\img\logo_abet.png
 INPUT .\img\logo_episunsa.png
 INPUT .\img\logo_episunsa.png
 INPUT img\logo_episunsa.png
@@ -1045,9 +1059,9 @@ INPUT .\img\logo_episunsa.png
 INPUT .\img\logo_abet.png
 INPUT img\logo_abet.png
 INPUT .\img\logo_abet.png
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.aux
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
-INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.aux
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
+INPUT c:\Users\luisg\OneDrive\Documentos\unsa\tercer semestre\pweb2\angu\Lab-09-Angular\Informe\build\informe.out
 INPUT C:\Users\luisg\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tctt0900.pk
 INPUT C:\Users\luisg\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tctt0900.pk
 INPUT C:\Users\luisg\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb

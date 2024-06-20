@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1718899110 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/Informe/informe.tex" "build/informe.pdf" "informe" 1718899112 0
+["pdflatex"] 1718900393 "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/angu/Lab-09-Angular/Informe/informe.tex" "build/informe.pdf" "informe" 1718900395 0
   "C:/Users/luisg/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1702406101 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/luisg/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tctt0900.pk" 1695177469 8332 8d48de65ca2c5aa69d2a34818629c1b2 ""
   "C:/Users/luisg/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1695176059 23178960 44c98fc1914124201fa15bc2b5c82cfb ""
@@ -125,9 +125,10 @@
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/luisg/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "build/informe.aux" 1718899112 1825 a2df0c030f15664597c667c23b109ee6 "pdflatex"
-  "build/informe.out" 1718899112 692 0dc37b640c838c2c1cdf5ea65c628800 "pdflatex"
-  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/Informe/informe.tex" 1718899109 10755 a2c253069e640b407e7c3c004e858b54 ""
+  "build/informe.aux" 1718900395 1935 9862ab52e14c7fe43179e3e2c70566ad "pdflatex"
+  "build/informe.out" 1718900395 800 1c84bcce7c311a40f53cb765dea6dc8b "pdflatex"
+  "c:/Users/luisg/OneDrive/Documentos/unsa/tercer semestre/pweb2/angu/Lab-09-Angular/Informe/informe.tex" 1718900390 11110 964350baa3d16305b6bd2f83b44080f8 ""
+  "img/accionesconunclick.jpg" 1718862946 27886 50d2a06485e2284aeb263c1eba456cc6 ""
   "img/comocrearcomponentes.jpg" 1718860285 144914 8ac77c33306a9c7ace3386b6b690685d ""
   "img/comofuncionaforenAngular.jpg" 1718860357 79605 dac42ad5d60c3ebcea200bfb48edf3eb ""
   "img/creamosuncomponente.jpg" 1718857149 88028 af1003638e6ef8d9b9e58723ac2c5733 ""
@@ -138,7 +139,7 @@
   "img/paracolocarlousamosappgames.jpg" 1718860420 18645 6a30e91fd22b497b827437ad8d93c03c ""
   "img/servidorInicio.jpg" 1718857630 113652 e6ad1ed1a241c032a010483f72b47935 ""
   "img/tenemosqueimportarparausarloenotrocomponente.jpg" 1718860384 83285 bafba60917dfdf05be8c9d8560768656 ""
-  "informe.tex" 1718899109 10755 a2c253069e640b407e7c3c004e858b54 ""
+  "informe.tex" 1718900390 11110 964350baa3d16305b6bd2f83b44080f8 ""
   (generated)
   "build/informe.aux"
   "build/informe.log"

@@ -35,7 +35,11 @@ export class GameService {
     'consulta',
     'wuthering',
     'pruebas',
-    'waves'
+    'waves',
+    'creep',
+    'dire',
+    'radiant',
+    'ursa'
   ];
 
   palabraActual: string = '';

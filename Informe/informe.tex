@@ -268,11 +268,36 @@
 	\end{itemize}
 
 	\section{Ahorcado-Game}
-	
-	
-	
-
-
+	\begin{itemize}
+		\item A continuacion se presenta la parte mas importante del codigo del juego Ahorcado-game.
+		\item Primero se maneja la lógica central del juego del ahorcado. Esto incluye seleccionar una palabra aleatoria, llevar un registro de los intentos restantes, actualizar la palabra oculta según las letras adivinadas, y emitir eventos cuando cambian los intentos. Además, proporciona métodos para iniciar un nuevo juego y verificar si el juego ha terminado.
+		
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=0.4\textwidth,keepaspectratio]{img/game1.png}
+			\includegraphics[width=0.5\textwidth,keepaspectratio]{img/game2.png}
+		\end{figure}
+		
+		\item El siguiente codigo se encarga de mostrar las partes del cuerpo del muñeco del ahorcado en función de los intentos restantes. Se suscribe a los cambios en el número de intentos a través del GameService y actualiza la visibilidad de las partes del cuerpo en consecuencia. Utiliza clases CSS (hidden y visible) para controlar la visibilidad de los elementos en el DOM y ajusta el color de fondo para asegurarse de que las partes visibles tengan el color correcto.
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=0.8\textwidth,keepaspectratio]{img/game3.png}		
+		\end{figure}
+		
+		\clearpage
+		
+		\item Por ultimo en cuanto al gameboard, el siguiente codigo es responsable de manejar la interfaz del juego del ahorcado. Proporciona un cuadro de entrada para que el usuario introduzca letras y botones para adivinar letras o iniciar un nuevo juego. Utiliza el GameService para manejar la lógica del juego, como verificar las letras adivinadas y generar nuevas palabras.
+		
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=0.8\textwidth,keepaspectratio]{img/game4.png}		
+		\end{figure}
+		
+		
+		
+		
+		
+	\end{itemize}
 
 
 
@@ -297,11 +322,11 @@
 	}
 	\end{table}
 	
-	\clearpage
 	
 	
 	
-\clearpage
+	
+
 
 \section{Referencias}
 \begin{itemize}			
